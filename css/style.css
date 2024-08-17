@@ -1,0 +1,127 @@
+/* FONTS */
+.font-poppins {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+/* FONTS END*/
+
+/* NAVBAR */
+.navbar-css {
+  position: sticky !important;
+  top: 0px;
+  z-index: 5;
+}
+
+.custom-toggler .navbar-toggler-icon {
+  background-image: url('data:image/svg+xml;utf8,<svg viewBox="0 0 30 30" xmlns="http://www.w3.org/2000/svg"><path stroke="rgba(255, 255, 255, 1)" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M4 7h22M4 15h22M4 23h22"/></svg>');
+}
+
+.link-icon {
+  position: absolute;
+  right: 17px;
+  top: -5px;
+}
+
+.icon-person {
+  font-size: 45px !important;
+  color: white;
+}
+
+/* NAVBAR END */
+
+/* HOME */
+.bg-home {
+}
+/* HOME END */
+
+/* beranda */
+.beranda {
+  padding: 0 20px !important;
+}
+
+.judul-halaman {
+  font-size: 35px;
+  font-weight: 500;
+  text-align: center;
+  padding: 5px;
+}
+
+.kalimat-beranda {
+  text-align: justify;
+}
+
+.rounded {
+  width: 150px !important;
+}
+
+.toggle-question {
+  margin: 20px 0px !important;
+}
+
+#panel, #flip, #panel2, #flip2, #panel3, #flip3 {
+  text-align: center;
+  border-bottom: 3px solid white;
+  color: white;
+}
+
+#flip, #flip2, #flip3 {
+  background-color: #605a5a;
+  cursor: pointer;
+  padding: 15px;
+}
+
+#panel, #panel2, #panel3 {
+  padding: 20px 30px;
+  display: none;
+  background-color: #939393;
+}
+/* beranda END */
+
+/* TOUR PACKAGES */
+.tour-packages {
+  padding: 65px 60px 40px 60px;
+}
+
+.kotak-isi {
+  display: block;
+  padding: 5px;
+  justify-content: center;
+}
+
+.card {
+  margin: 10px;
+}
+
+.video-kiri {
+  padding-top: 15px;
+}
+/* TOUR PACKAGES END */
+
+/* BOOKING */
+/* .booking {
+  padding: 70px 60px 60px 60px;
+  background-color: rgb(112, 112, 112);
+  color: white;
+}
+
+.form-label {
+  font-size: 18px !important;
+  font-weight: 500 !important;
+}
+
+.form-control {
+  font-size: 15px !important;
+  padding: 3px 8px !important;
+} */
+/* BOOKING END */
+
+/* FOOTER */
+.link-medsos {
+  text-decoration: none !important;
+}
+
+.icon-medsos {
+  font-size: 20px !important;
+}
+/* FOOTER END */
